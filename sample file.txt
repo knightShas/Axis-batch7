@@ -1,1 +1,6 @@
 Git intro
+git command
+push 
+pull 
+merge
+commit
